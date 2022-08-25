@@ -1,0 +1,5 @@
+let nome = "Leo Oli"
+let email = "leooli_artist@outlook.com"
+let profissao = "CEO"
+let idade = "26"
+let sonho = "Japao"
